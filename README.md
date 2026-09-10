@@ -14,7 +14,6 @@
 <a href="mailto:arnabsingh001@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=EDE9FE" alt="Email" /></a>
 <br />
 <a href="https://github.com/singha105?tab=followers"><img src="https://img.shields.io/github/followers/singha105?style=flat-square&color=7C3AED&labelColor=2E1065&logo=github&logoColor=A78BFA&label=Follow" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=singha105&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
 
 </div>
 
