@@ -20,7 +20,13 @@
 
 ---
 
-### <div align="center">MS Computer Science candidate (Dec 2026) targeting **new-grad DevOps, Cloud/AWS and AI Engineering** roles — I build distributed systems in **Go** and **Python**, run them on **Kubernetes provisioned by Terraform**, and deliberately break them to find out what actually holds.</div>
+<div align="center">
+
+### MS Computer Science candidate · Dec 2026
+
+**Targeting new-grad DevOps, Cloud/AWS and AI Engineering roles.** I build distributed systems in **Go** and **Python**, run them on **Kubernetes provisioned by Terraform**, and deliberately break them to find out what actually holds.
+
+</div>
 
 ---
 
