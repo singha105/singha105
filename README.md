@@ -51,6 +51,8 @@ I'm looking for new-grad roles in DevOps, cloud, platform/SRE or AI engineering,
 <p><b>Smaller projects</b></p>
 <p><a href="https://github.com/singha105/mincut-segmentation">mincut-segmentation</a>: image segmentation with max-flow written from scratch. It <a href="https://singha105.github.io/mincut-segmentation/">runs in the browser</a>.</p>
 <p><a href="https://github.com/singha105/phonepad">phonepad</a>: turns an iPhone into a game controller for a Mac.</p>
+<p><a href="https://github.com/singha105/flowlens">flowlens</a>: delivery analytics from a repo's history, with Kanban flow metrics, Monte Carlo forecasts and DORA metrics.</p>
+<p><a href="https://github.com/singha105/liftlab">liftlab</a>: a product experimentation toolkit with a Python stats library (SRM, CUPED, mSPRT) and a shipped study timer.</p>
 </td>
 </tr>
 </table>
